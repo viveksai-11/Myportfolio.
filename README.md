@@ -27,7 +27,8 @@ Feel free to explore the MyPortfolio website to learn more about my work as a we
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the viveksai
+
 ## Image Credits
 The images used in this project are sourced from Google Images. While efforts have been made to use images with proper licensing or permission for reuse, it's important to note that the rights to these images may vary. Please ensure that you have the appropriate rights to use the images in your project, and consider providing proper attribution or seeking permission from the copyright holder if necessary.
 
